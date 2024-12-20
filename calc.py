@@ -31,3 +31,4 @@ def calc():
 	print('\n \tExiting the Calculator\n')
 
 calc()
+print("fork successful")
